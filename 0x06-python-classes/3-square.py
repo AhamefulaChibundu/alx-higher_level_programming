@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Defines a square by: based on 0-square.py
+Defines a square by: based on 2-square.py
 """
 
 
