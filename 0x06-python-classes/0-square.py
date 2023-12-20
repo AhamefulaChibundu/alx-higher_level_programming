@@ -3,6 +3,8 @@
 """
 This defines an empty class square
 """
+
+
 class Square:
     """
     An empty class of type square
