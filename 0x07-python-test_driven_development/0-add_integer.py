@@ -10,7 +10,7 @@ def add_integer(a, b=98):
         a: first number
         b: second number
     Returns:
-        The addition of the two given numbers 
+        The addition of the two given numbers
         If second number is not given it 98 would be assigned
     Raises:
         TypeError: If a or b aren't integer and/or float numbers
